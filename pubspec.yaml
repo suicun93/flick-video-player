@@ -13,10 +13,9 @@ dependencies:
     sdk: flutter
   video_player:
     git:
-      url: https://github.com/recastrodiaz/plugins.git
+      url: https://github.com/suicun93/plugins.git
       path: packages/video_player/video_player
-      ref: 8344dcb20e2fe1884dba2745af1b0452df7fe163
-    version: ^0.10.5+2
+      ref: master
   provider: ^6.0.1
   wakelock: ^0.5.0+3
   universal_html: ^2.0.8
